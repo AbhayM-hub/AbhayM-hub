@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://chauhanakash.netlify.app/](https://abhaymakwana.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://abhaymakwana.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, C++, React.js, Python**
 

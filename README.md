@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 All of my projects are available at (https://abhaymakwana.netlify.app/)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, C++, React.js, Python**
 
 - 📫 How to reach me **abhaymakwana31@gmail.com**
